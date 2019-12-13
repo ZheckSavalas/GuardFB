@@ -27,7 +27,7 @@ $blue  ____        _    _   __        _    _____
 $lightcyan | __ )  ___ | |_ | | / / _____ | |_ |  __ $cyan |  _ \ / _ \|  _|| |/ / |  _  ||  _|| |  \ $lightcyan | |_) | (_) | |_ |  _ \ | | | || |_ | |__/ /
 $blue |____/ \___/ \__||_| \_\|_| |_|\___||_____/";
     echo "
-$cyan Author  : kumpulan remaja
+$cyan Author  : Zheck Savalas
 $lightcyan Type    : Profil Guard Facebook
 $cyan Github  : http://github.com/ZheckSavalas
 $red Fanspage : https://facebook.com/ZheckSavalas
